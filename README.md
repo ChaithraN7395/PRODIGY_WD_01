@@ -2,6 +2,7 @@
 During my internship at Prodigy Infotech, I had the opportunity to work on a variety of web development projects that strengthened my technical skills and problem-solving abilities. Each task allowed me to explore HTML, CSS, JavaScript, and modern web development techniques while focusing on responsiveness and user experience.
 
 🔥 Projects Completed
+
 1️⃣ Responsive Landing Page – Designed and developed a visually appealing, mobile-friendly landing page with a clean UI/UX, ensuring seamless navigation across different devices.
 
 2️⃣ Stopwatch Web Application – Built an interactive stopwatch with features like start, pause, reset, and lap time tracking using JavaScript.
